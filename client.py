@@ -10,8 +10,8 @@ import socket
 import microcoapy
 
 # WiFi Configuration
-WIFI_SSID = "Jawad iPhone"
-WIFI_PASSWORD = "J22722272"
+WIFI_SSID = ""
+WIFI_PASSWORD = ""
 
 # Server configuration
 SERVER_IP = "172.20.10.10" 
