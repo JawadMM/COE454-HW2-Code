@@ -14,7 +14,7 @@ WIFI_SSID = ""
 WIFI_PASSWORD = ""
 
 # Server configuration
-SERVER_IP = "172.20.10.10" 
+SERVER_IP = "" 
 SERVER_PORT = 5683  # Default CoAP port
 
 # Configure pins
